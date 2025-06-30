@@ -1,6 +1,6 @@
 <h2>Tampermonkey中文官网入口- 油猴浏览器插件脚本下载网站</h2>
 <p>Tampermonkey 是一款功能强大的浏览器扩展工具，旨在通过用户脚本（ small JavaScript programs）来增强网页的功能性和美观性。它支持多种主流浏览器，包括 Chrome、Microsoft Edge、Safari、Opera Next 和 Firefox 等，每周活跃用户超过 1000 万。Tampermonkey 提供了丰富的脚本管理功能，用户可以轻松安装、编辑和运行各种脚本，实现广告拦截、页面美化、自动化任务等功能。此外，它还支持脚本的同步功能，允许用户在不同设备间共享脚本，并通过自动更新机制确保脚本的安全性和兼容性。</p>
-<p><strong>一键访问：</strong><a href="https://www.litxdh.com/sites/tampermonkey.html"><strong>Tampermonkey官网入口</strong></a></p>
+<p><strong>一键访问：</strong><a href="https://tampermonkey.ggonav.com/"><strong>Tampermonkey官网入口</strong></a></p>
 <p><strong>功能特点</strong></p>
 <ol>
 	<li><strong>强大的脚本支持</strong>：用户可以创建或使用社区提供的脚本，实现个性化网页效果，如去除广告、自动填写表单、页面布局调整等。</li>
